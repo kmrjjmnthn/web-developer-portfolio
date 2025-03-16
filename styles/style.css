@@ -198,3 +198,31 @@ main section {
 }
 
 /* Skills Section Styles Ends */
+
+/* Resume Section Styles Starts */
+
+.resume-container {
+    display: flex;
+    gap: 24px;
+}
+
+.resume-button {
+    margin-top: 20px;
+}
+
+.experience-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.experience-sub-title {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.resume-column-title {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+/* Resume Section Styles Ends */
